@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["shout@cococoder.com"]
 
   spec.summary       = %q{Why - The missing part of agile processt}
-  spec.description   = %q{With an agile process we all make decisions, we make trade offs on why we don't make evything bullett proof, the why gem allows you to record those decisions so that you refere back to them}
+  spec.description   = %q{With an agile process we all make decisions, we make trade offs on why we don't make everything bullet proof, the why gem allows you to record those decisions so that you refer back to them.}
   spec.homepage      = "http:://why.cococoder.com"
   spec.license       = "MIT"
 
